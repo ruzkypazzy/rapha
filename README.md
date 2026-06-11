@@ -162,7 +162,7 @@ git clone https://github.com/ruzkypazzy/rapha
 cd rapha
 ```
 
-### Install Dependencies
+## Install Dependencies
 
 ```bash
 forge install
